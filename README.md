@@ -26,7 +26,7 @@ I know. It's coming in Version 2!
 
 1. Download this whole folder using the "Download ZIP" at the top of the page. 
 2. Save somewhere easily accessible, like Desktop or Documents. Unzip!
-3. Open Terminal and `[cd](https://help.ubuntu.com/community/UsingTheTerminal#File_.26_Directory_Commands)` into the directory where you just saved the `abbrevs` zip.
+3. Open Terminal and [`cd`](https://help.ubuntu.com/community/UsingTheTerminal#File_.26_Directory_Commands) into the directory where you just saved the `abbrevs` zip.
 4. `cd` into abbrevs.
 5. Type `python bbabbrevs.py` and hit return.
 6. Enter your information as the program prompts!
