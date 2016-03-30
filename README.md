@@ -33,7 +33,7 @@ I know. It's coming in Version 2!
 
 ### Why did you make this?
 
-A dear friend is in law school and serves on law review as an editor. Among many other things, she's tasked with ensuring all citations align with Bluebook standards. I mainly made this because **it's a repetetive task that basically begs to be automated**.
+A dear friend is in law school and serves on law review as an editor. Among many other things, she's tasked with ensuring all citations align with Bluebook standards. I mainly made this because **it's a repetitive task that basically begs to be automated**.
 
 ### This helps, but citation is still such a pain in the ass.
 
