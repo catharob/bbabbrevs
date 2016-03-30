@@ -1,4 +1,4 @@
-# Blue Book Abbreviations
+# Bluebook Abbreviations
 
 A little program to look up Bluebook abbreviations for legal citations.
 
